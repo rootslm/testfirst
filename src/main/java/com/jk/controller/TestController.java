@@ -5,4 +5,5 @@ package com.jk.controller;
  * @Date：
  **/
 public class TestController {
+    private Integer id;
 }
